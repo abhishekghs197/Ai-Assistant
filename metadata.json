@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Copy of Copy of Coderabhi's AI Assistant",
+  "description": "A conversational AI assistant with voice capabilities, powered by Gemini. Engage in real-time chats, manage your conversations, and get answers to your questions.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
